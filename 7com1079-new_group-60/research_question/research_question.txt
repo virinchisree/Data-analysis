@@ -1,0 +1,20 @@
+Group: <7COM1079-new_group-60>
+
+Question
+========
+RQ : Is there a correlation between centroid of the airport that are being used and percentofbaseline of the airport?
+
+Null hypothesis: There is no correlation between the centroid of airports that are being used and the percentofbaseline of the airport?
+Alternative hypothesis: There is relation between the centroid of airports that are being used and the percentofbaseline of the airport?
+
+Dataset
+=======
+URL: https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic
+
+Column Heading:
+> colnames(coivd_impact_on_airport_traffic)
+
+[1] "AggregationMethod" "Date"              "Version"          
+[4] "AirportName"       "PercentOfBaseline" "Centroid"         
+[7] "City"              "State"             "ISO_3166_2"       
+[10] "Country"           "Geography"
